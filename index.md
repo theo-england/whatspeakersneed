@@ -75,6 +75,10 @@ If so:
 - Does food meet dietry requirements?
 - Where can speakers get (good) coffee nearby?
 
+### 
+
+- Who is the main point of contact? What is their mobile number?
+
 ### Is there wifi? 
 
 - What is the wifi code?
